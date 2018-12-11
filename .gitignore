@@ -2,3 +2,12 @@ Servers
 .recommenders
 .metadata
 AllinProjexmaple1
+apache-client-example/.classpath
+apache-client-example/.project
+apache-client-example/.settings/org.eclipse.jdt.core.prefs
+apache-client-example/.settings/org.eclipse.m2e.core.prefs
+apache-client-example/.settings/org.eclipse.wst.common.component
+apache-client-example/.settings/org.eclipse.wst.common.project.facet.core.xml
+apache-client-example/.settings/org.eclipse.wst.jsdt.ui.superType.container
+apache-client-example/.settings/org.eclipse.wst.jsdt.ui.superType.name
+apache-client-example/.settings/org.eclipse.wst.validation.prefs
